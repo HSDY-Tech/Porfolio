@@ -39,8 +39,11 @@ assets/
 # 🧠 MERN Project — Employee Management System (EMS)
 
 <p align="center">
-<img src="assets/mern-project/cover.png" width="1000"/>
+  <a href="https://tahira-ems.base44.app">
+    <img src="assets/mern-project/cover.png" width="1000"/>
+  </a>
 </p>
+
 
 ## 📖 Overview
 
@@ -90,7 +93,7 @@ The platform centralizes employee operations into a single scalable web applicat
 
 | Attendance | Salaries |
 |---|---|
-| ![](assets/mern-project/cover.png) | ![](assets/mern-project/invocesrecords.png.png) |
+| ![](assets/mern-project/attendance.png) | ![](assets/mern-project/payroll.png.png) |
 
 ---
 
@@ -98,7 +101,7 @@ The platform centralizes employee operations into a single scalable web applicat
 
 | Invoices | Experience Certificates |
 |---|---|
-| ![](assets/mern-project/invoices.png) | ![](assets/mern-project/certificates.png) |
+| ![](assets/mern-project/invoces-records.png) | ![](assets/mern-project/certificates.png) |
 
 ---
 
@@ -142,7 +145,7 @@ The system demonstrates how powerful production-ready applications can be develo
 
 | Home Page | Dashboard |
 |---|---|
-| ![](assets/no-code/dashboard.jpeg) | ![](assets/no-code/cover.png) |
+| ![](assets/no-code/cover.png) | ![](assets/no-code/dashboard.jpeg) |
 
 ---
 
