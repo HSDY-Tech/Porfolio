@@ -216,7 +216,7 @@ The chatbot helps users discover products naturally using conversational interac
 
 | Product Comparison | Shopping Workflow |
 |---|---|
-| ![](assets/novacart/comparison.png) | ![](assets/novacart/chat5.png) |
+| ![](assets/novacart/comparison.png) | ![](assets/novacart/chat3.png) |
 
 ---
 
