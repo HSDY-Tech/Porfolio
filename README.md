@@ -93,7 +93,7 @@ The platform centralizes employee operations into a single scalable web applicat
 
 | Attendance | Salaries |
 |---|---|
-| ![](assets/mern-project/attendance.png) | ![](assets/mern-project/payroll.png.png) |
+| ![](assets/mern-project/attendance.png) | ![](assets/mern-project/payrol.png) |
 
 ---
 
