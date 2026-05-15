@@ -1,28 +1,20 @@
-<h1 align="center">🚀 AI, Full Stack & Automation Project Showcase</h1>
+<h1 align="center">Selected Projects & Systems</h1>
 
 <p align="center">
-A curated collection of AI-powered systems, MERN stack applications, no-code platforms, workflow automations, and modern digital product solutions.
+Collection of product systems, workflows, dashboards, automation concepts, and application interfaces across AI, ecommerce, no-code, and full stack development.
 </p>
 
 ---
 
-# 📌 About This Repository
+# About This Repository
 
-This repository showcases a collection of real-world projects, workflows, and application interfaces focused on:
+This repository contains a collection of real-world projects, workflows, and product systems focused on business automation, ecommerce experiences, workflow management, and modern web applications.
 
-- Artificial Intelligence
-- Full Stack Development
-- No-Code Platforms
-- Business Automation
-- Workflow Management
-- Ecommerce AI Assistants
-- Video Generation Systems
-
-Each project folder contains visual assets, UI previews, workflow diagrams, and system showcases demonstrating architecture, features, and product capabilities.
+The repository includes interface previews, workflow diagrams, dashboard systems, conversational assistants, and automation concepts built across different technologies and platforms.
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```bash
 assets/
@@ -36,7 +28,9 @@ assets/
 
 ---
 
-# 🧠 MERN Project — Employee Management System (EMS)
+# Employee Management System (EMS)
+
+> Status: Showcase Repository
 
 <p align="center">
   <a href="https://tahira-ems.base44.app">
@@ -44,36 +38,65 @@ assets/
   </a>
 </p>
 
+## Overview
 
-## 📖 Overview
+A centralized Employee Management System built to simplify daily HR and administrative operations through a modern web-based workflow.
 
-A complete enterprise-grade Employee Management System designed to digitalize and automate business operations, reducing more than 80% of manual administrative work.
+The platform manages employees, departments, payroll, attendance, invoices, reporting, and internal permissions from a single dashboard while reducing repetitive manual processes across teams.
 
-The platform centralizes employee operations into a single scalable web application, enabling organizations to efficiently manage workforce activities, records, payroll, attendance, reporting, and internal workflows.
+The system is designed to help organizations move from fragmented manual operations to a structured digital workflow with role-based access and centralized management.
 
 ---
 
-## ✨ Key Features
+## Live Preview
+
+https://tahira-ems.base44.app
+
+---
+
+## Features
 
 - Employee Records Management
 - Department Management
-- Attendance Tracking System
-- Salary & Payroll Management
+- Attendance Tracking
+- Payroll & Salary Management
 - Invoice Management
 - Annual Bonus Management
 - Experience Certificate Generation
 - Grass Cutting Report Module
 - Role-Based Access Control
 - Admin / Editor / Viewer Permissions
-- Workflow & Settings Management
-- Fully Responsive Dashboard
-- Modern UI/UX Experience
+- Workflow Settings & Configuration
+- Responsive Dashboard Interface
+- Centralized Operational Management
 
 ---
 
-## 🖼️ System Preview
+## Voice Assistant Workflow
 
-### Dashboard & Cover
+The Employee Management System also includes an interactive voice assistant workflow designed to help businesses evaluate and automate manual HR and payroll processes.
+
+The voice agent interacts conversationally with users by asking operational questions such as:
+
+- Whether payroll and HR tasks are currently handled manually
+- Time spent managing attendance and employee records
+- Administrative workload on HR teams
+- Existing workflow bottlenecks
+- Internal process inefficiencies
+
+Based on user responses, the system provides workflow suggestions and operational recommendations tailored to organizational needs.
+
+
+### Voice Samples
+
+- [Audio 1](./assets/mern-project/audio/Audio%20(1).wav)
+- [Audio 2](./assets/mern-project/audio/Audio%20(2).wav)
+- [Audio 3](./assets/mern-project/audio/Audio%20(3).wav)
+---
+
+## Interface Preview
+
+### Dashboard & Overview
 
 | Dashboard | Overview |
 |---|---|
@@ -91,7 +114,7 @@ The platform centralizes employee operations into a single scalable web applicat
 
 ### Attendance & Payroll
 
-| Attendance | Salaries |
+| Attendance | Payroll |
 |---|---|
 | ![](assets/mern-project/attendance.png) | ![](assets/mern-project/payrol.png) |
 
@@ -101,47 +124,60 @@ The platform centralizes employee operations into a single scalable web applicat
 
 | Invoices | Experience Certificates |
 |---|---|
-| ![](assets/mern-project/invoces-records.png) | ![](assets/mern-project/certificates.png) |
+| ![](assets/mern-project/invoces-records.png) | ![](assets/mern-project/setting.png) |
 
 ---
 
-## ⚙️ Highlights
+## Highlights
 
-- Streamlines HR operations
-- Reduces paperwork and repetitive tasks
-- Improves workforce tracking and transparency
-- Scalable architecture for organizations
-- Centralized management system
+- Reduces repetitive administrative work
+- Centralizes workforce operations
+- Improves operational visibility
+- Simplifies HR workflows
+- Supports scalable organizational management
 
 ---
 
-# 💡 No-Code Project — TalentBooker
+## Stack & Concepts
+
+- MERN Stack
+- Workflow Automation
+- Role-Based Access
+- Dashboard Systems
+- Business Process Management
+- Voice Workflow Integration
+
+---
+
+# TalentBooker — No-Code Platform
+
+> Status: Showcase Repository
 
 <p align="center">
 <img src="assets/no-code/cover.png" width="1000"/>
 </p>
 
-## 📖 Overview
+## Overview
 
-TalentBooker is a fully responsive no-code application built using Bubble.io, designed to simplify talent management, bookings, and digital workflows through a modern and scalable platform.
+TalentBooker is a responsive no-code application built using Bubble.io, designed to streamline talent management, booking workflows, and user interactions through a modern interface.
 
-The system demonstrates how powerful production-ready applications can be developed rapidly using no-code technologies while maintaining professional UI/UX standards and responsive experiences.
+The project demonstrates how scalable and production-ready systems can be built rapidly using no-code technologies while maintaining responsive layouts and structured workflows.
 
 ---
 
-## ✨ Features
+## Features
 
 - Fully Responsive Design
-- Modern UI Components
+- Interactive User Interface
 - Dynamic Workflows
-- User-Friendly Interface
 - Mobile Optimized Experience
 - Scalable No-Code Architecture
-- Interactive Pages & Components
+- Modern Dashboard Components
+- Structured User Flows
 
 ---
 
-## 🖼️ Application Preview
+## Interface Preview
 
 | Home Page | Dashboard |
 |---|---|
@@ -151,64 +187,66 @@ The system demonstrates how powerful production-ready applications can be develo
 
 | Mobile Responsive | User Interface |
 |---|---|
-| ![](assets/no-code/mobile.png) | ![](assets/no-code/talent-book.png) |
+| ![](assets/no-code/mobile.jpeg) | ![](assets/no-code/talent-book.png) |
 
 ---
 
-## ⚡ Built With
+## Stack & Concepts
 
 - Bubble.io
-- No-Code Workflows
-- Responsive UI/UX Design
-- Automation Logic
+- No-Code Development
+- Workflow Automation
+- Responsive UI/UX
+- Dynamic Interfaces
 
 ---
 
-# 🤖 NovaCart — AI Shopping Assistant
+# NovaCart — Ecommerce Shopping Assistant
+
+> Status: Showcase Repository
 
 <p align="center">
 <img src="assets/novacart/cover.png" width="1000"/>
 </p>
 
-## 📖 Overview
+## Overview
 
-NovaCart is an AI-powered ecommerce assistant that combines conversational AI, semantic product search, and intelligent recommendations into a modern shopping experience.
+NovaCart is a conversational ecommerce assistant designed to help users discover products naturally through chat-based interactions.
 
-The chatbot helps users discover products naturally using conversational interactions while supporting advanced ecommerce actions such as order placement, tracking, product comparisons, and personalized recommendations.
+The system supports product search, comparisons, budget-based recommendations, order management, and personalized shopping assistance inside a single conversational interface.
+
+The assistant is built around contextual conversations that help users navigate ecommerce experiences more efficiently while simplifying product discovery and order handling.
 
 ---
 
-## 🧠 AI Capabilities
+## Features
 
-- AI Chatbot Integration
-- Natural Language Product Search
+- Conversational Product Search
 - Budget-Based Recommendations
-- Smart Product Comparisons
-- Add to Cart Functionality
+- Product Comparisons
+- Add to Cart Workflow
 - Place & Cancel Orders
 - Order Tracking
-- Product Suggestions
-- Chat History & Memory
-- Intent Detection
-- AI Shopping Assistance
+- Personalized Suggestions
+- Chat History & Session Context
+- Conversational Shopping Interface
 
 ---
 
-## 🔍 Smart Ecommerce Features
+## Ecommerce Capabilities
 
-- Semantic Product Search
-- AI-Powered Recommendations
-- Conversational Shopping Experience
-- Personalized Responses
-- Context-Aware Conversations
-- Product Discovery Automation
-- Intelligent User Assistance
+- Product Discovery
+- Context-Aware Recommendations
+- Conversational Navigation
+- Smart Filtering
+- Shopping Assistance
+- Order Management Workflow
 
 ---
 
-## 🖼️ System Showcase
+## Interface Preview
 
-| AI Chat Interface | Product Recommendations |
+| Chat Interface | Product Recommendations |
 |---|---|
 | ![](assets/novacart/chat-ui.png) | ![](assets/novacart/recommendation.png) |
 
@@ -220,115 +258,125 @@ The chatbot helps users discover products naturally using conversational interac
 
 ---
 
-## ⚙️ Technologies & Concepts
+## Stack & Concepts
 
-- OpenAI GPT
-- AI Chatbot Systems
-- Conversational AI
+- OpenAI
+- Next.js
+- RAG
+- Vector Search
 - Semantic Search
-- Vector Embeddings
 - Prompt Engineering
-- Ecommerce Automation
-- AI Recommendation Systems
+- Conversational Interfaces
 
 ---
 
-# 📊 Scrum Workflow
+# Scrum Workflow
+
+> Status: Showcase Repository
 
 <p align="center">
 <img src="assets/scrum-workflow/cover.png" width="1000"/>
 </p>
 
-## 📖 Overview
+## Overview
 
-A visual representation of a complete Scrum and Agile workflow designed to improve collaboration, sprint planning, project management, and development execution.
+A visual representation of a Scrum and Agile workflow designed to improve project coordination, sprint execution, and development management.
 
-The workflow demonstrates how tasks move through the development lifecycle while maintaining transparency, productivity, and team coordination.
+The workflow demonstrates how tasks move through planning, development, review, and deployment stages while maintaining collaboration and operational visibility across teams.
 
 ---
 
-## 📌 Workflow Includes
+## Workflow Includes
 
 - Sprint Planning
-- Task Lifecycle
-- Agile Process Flow
+- Task Lifecycle Management
+- Agile Development Flow
 - Backlog Management
 - Team Collaboration
-- Development Workflow
-- Scrum Execution Model
+- Development Process Visualization
+- Scrum Execution Workflow
 
 ---
 
-## 🖼️ Workflow Preview
+## Workflow Preview
 
 ![](assets/scrum-workflow/cover.png)
 
 ---
 
-# 🎬 Video Generation System
+# Video Generation System
+
+> Status: Showcase Repository
 
 <p align="center">
 <img src="assets/video-generation/cover.png" width="1000"/>
 </p>
 
-## 📖 Overview
+## Overview
 
-An AI-driven video generation workflow showcasing how automated systems can generate, process, and manage video content using modern AI pipelines and creative automation techniques.
+A video generation workflow showcasing automated content generation pipelines, processing stages, and production concepts used in modern AI-assisted media systems.
 
-The project demonstrates workflow architecture, generation stages, and automation concepts used in AI video production systems.
-
----
-
-## ✨ Features
-
-- AI Video Generation Workflow
-- Automated Content Pipeline
-- Visual Generation Stages
-- AI Processing Architecture
-- Creative Automation Flow
-- Modern Production Workflow
+The project focuses on workflow visualization, generation stages, and structured automation pipelines for creative production environments.
 
 ---
 
-## 🖼️ Workflow Showcase
+## Features
 
-| Generation Flow | Processing Pipeline |
-|---|---|
-| ![](assets/video-generation/flow.png) | ![](assets/video-generation/pipeline.png) |
+- Automated Video Workflow
+- Content Processing Pipeline
+- Generation Stages Visualization
+- Workflow Automation
+- Creative Production Concepts
+- Media Processing Architecture
 
 ---
 
-# 🛠️ Technologies & Concepts
+## Workflow Showcase
 
-- Artificial Intelligence
+
+---
+
+## Stack & Concepts
+
+- Video Generation Pipelines
+- Workflow Automation
+- Processing Systems
+- Creative Production Workflow
+- AI-Assisted Media Systems
+
+---
+
+# Technologies & Concepts Across Projects
+
 - MERN Stack
 - Bubble.io
-- Conversational AI
+- Workflow Automation
+- Conversational Interfaces
 - Semantic Search
 - RAG Architecture
-- Workflow Automation
-- Ecommerce Systems
+- Dashboard Systems
+- Ecommerce Workflows
 - Agile Methodologies
-- Video Generation Pipelines
+- Voice Workflow Systems
+- Video Processing Pipelines
 
 ---
 
-# 📌 Notes
+# Notes
 
 - All assets and visuals are shared for portfolio and showcase purposes.
-- Some projects may contain UI previews, workflow diagrams, and concept demonstrations.
-- Public repository intended for educational and professional showcasing.
+- Some projects contain interface previews, workflow diagrams, and product demonstrations.
+- Repository intended for educational, presentation, and professional showcase use.
 
 ---
 
-# 📬 Contact & Portfolio
+# Contact & Portfolio
 
 For collaborations, demos, or project inquiries:
 
-- GitHub Profile
 - Upwork Portfolio
-- Google Drive Assets
+https://www.upwork.com/freelancers/~01fa29d991b431ec76
 - LinkedIn
+https://www.linkedin.com/company/hsdy-official/
 
 ---
-```
