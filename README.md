@@ -100,7 +100,7 @@ Based on user responses, the system provides workflow suggestions and operationa
 
 | Dashboard | Overview |
 |---|---|
-| ![](assets/mern-project/cover.png) | ![](assets/mern-project/dashboard.png) |
+| ![](assets/mern-project/cover.png) | ![](assets/mern-project/overview.png) |
 
 ---
 
@@ -122,7 +122,7 @@ Based on user responses, the system provides workflow suggestions and operationa
 
 ### Invoices & Certificates
 
-| Invoices | Experience Certificates |
+| Invoices | Settings |
 |---|---|
 | ![](assets/mern-project/invoces-records.png) | ![](assets/mern-project/setting.png) |
 
@@ -187,7 +187,7 @@ The project demonstrates how scalable and production-ready systems can be built 
 
 | Mobile Responsive | User Interface |
 |---|---|
-| ![](assets/no-code/mobile.jpeg) | ![](assets/no-code/talent-book.png) |
+| ![](assets/no-code/mobile-ui.png) | ![](assets/no-code/talent-book.png) |
 
 ---
 
