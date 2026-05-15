@@ -90,7 +90,7 @@ The platform centralizes employee operations into a single scalable web applicat
 
 | Attendance | Salaries |
 |---|---|
-| ![](assets/mern-project/cover.png) | ![](assets/mern-project/invoces records.png.png) |
+| ![](assets/mern-project/cover.png) | ![](assets/mern-project/invocesrecords.png.png) |
 
 ---
 
@@ -142,13 +142,13 @@ The system demonstrates how powerful production-ready applications can be develo
 
 | Home Page | Dashboard |
 |---|---|
-| ![](assets/no-code/home.png) | ![](assets/no-code/dashboard.png) |
+| ![](assets/no-code/dashboard.jpeg) | ![](assets/no-code/cover.png) |
 
 ---
 
 | Mobile Responsive | User Interface |
 |---|---|
-| ![](assets/no-code/mobile.png) | ![](assets/no-code/ui.png) |
+| ![](assets/no-code/mobile.png) | ![](assets/no-code/talent-book.png) |
 
 ---
 
@@ -213,7 +213,7 @@ The chatbot helps users discover products naturally using conversational interac
 
 | Product Comparison | Shopping Workflow |
 |---|---|
-| ![](assets/novacart/chat6.png) | ![](assets/novacart/chat5.png) |
+| ![](assets/novacart/comparison.png) | ![](assets/novacart/chat5.png) |
 
 ---
 
