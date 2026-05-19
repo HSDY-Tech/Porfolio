@@ -88,12 +88,24 @@ Based on user responses, the system provides workflow suggestions and operationa
 
 
 ### Voice Samples
+
 ### Audio 1
-https://github.com/HSDY-Tech/Porfolio/assets/mern-project/audio/Audio1.wav
+<audio controls>
+  <source src="assets/mern-project/audio/Audio1.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
 ### Audio 2
-https://github.com/HSDY-Tech/Porfolio/assets/mern-project/audio/Audio2.wav
+<audio controls>
+  <source src="assets/mern-project/audio/Audio2.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
 ### Audio 3
-https://github.com/HSDY-Tech/Porfolio/assets/mern-project/audio/Audio3.wav
+<audio controls>
+  <source src="assets/mern-project/audio/Audio3.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
 ---
 
 ## Interface Preview
