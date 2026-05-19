@@ -89,9 +89,9 @@ Based on user responses, the system provides workflow suggestions and operationa
 
 ### Voice Samples
 
-- [Audio 1](./assets/mern-project/audio/Audio%20(1).wav)
-- [Audio 2](./assets/mern-project/audio/Audio%20(2).wav)
-- [Audio 3](./assets/mern-project/audio/Audio%20(3).wav)
+https://github.com/HSDY-Tech/Porfolio/assets/mern-project/audio/Audio1.wav
+https://github.com/HSDY-Tech/Porfolio/assets/mern-project/audio/Audio2.wav
+https://github.com/HSDY-Tech/Porfolio/assets/mern-project/audio/Audio3.wav
 ---
 
 ## Interface Preview
