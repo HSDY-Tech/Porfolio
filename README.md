@@ -90,22 +90,15 @@ Based on user responses, the system provides workflow suggestions and operationa
 ### Voice Samples
 
 ### Audio 1
-<audio controls>
-  <source src="assets/mern-project/audio/Audio1.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[▶ Play Audio 1](assets/mern-project/audio/Audio1.wav)
 
 ### Audio 2
-<audio controls>
-  <source src="assets/mern-project/audio/Audio2.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[▶ Play Audio 2](assets/mern-project/audio/Audio2.wav)
 
 ### Audio 3
-<audio controls>
-  <source src="assets/mern-project/audio/Audio3.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[▶ Play Audio 3](assets/mern-project/audio/Audio3.wav)
+
+
 ---
 
 ## Interface Preview
