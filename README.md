@@ -87,17 +87,22 @@ The voice agent interacts conversationally with users by asking operational ques
 Based on user responses, the system provides workflow suggestions and operational recommendations tailored to organizational needs.
 
 
-### Voice Samples
+<h3>Voice Samples</h3>
 
-### Audio 1
-[▶ Play Audio 1](assets/mern-project/audio/Audio1.wav)
+<h4>Audio 1</h4>
+<audio controls>
+  <source src="assets/mern-project/audio/Audio1.wav" type="audio/wav">
+</audio>
 
-### Audio 2
-[▶ Play Audio 2](assets/mern-project/audio/Audio2.wav)
+<h4>Audio 2</h4>
+<audio controls>
+  <source src="assets/mern-project/audio/Audio2.wav" type="audio/wav">
+</audio>
 
-### Audio 3
-[▶ Play Audio 3](assets/mern-project/audio/Audio3.wav)
-
+<h4>Audio 3</h4>
+<audio controls>
+  <source src="assets/mern-project/audio/Audio3.wav" type="audio/wav">
+</audio>
 
 ---
 
